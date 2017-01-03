@@ -69,3 +69,19 @@ Yeah, maybe once I find a way to organize this that makes sense...
 
    And that goose was never seen again...
 
+* [Physical security let down by deliberate backdoor](https://www.amazon.com/review/R1OPKA227Q6P5)
+
+   Gotta love the response from the maker of the lock. Because, as we all know,
+   only PhDs in computer science can write trivial scripts.
+
+* [Re: Bug#843021: RFP: yarn -- a fast, reliable, and secure package manager for Node.js](https://lists.debian.org/debian-devel/2016/11/msg00103.html)
+
+   What I love about this is the hubris of the upstream developer in their glib
+   response to the bug. Upstream does apparently *zero* research to see if there
+   was a namespace collision, picked a simple name for what could be a major
+   project, and then blinkardly refuses to adopt a more general name when
+   its pointed out that *a)* the name is for something older and already
+   established and *b)* one of the biggest and most widely used Linux distros
+   on the planet has a problem with the name (and has a simple solution).
+   Gotta love millennial developers who think they are so GODDAMNED smarter
+   than the rest of us.... But I'm not bitter. Also, Javascript developers, AMMIRITE?
