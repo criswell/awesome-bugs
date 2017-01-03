@@ -20,6 +20,8 @@ but leave the parties involved alone!
 
 ## Table of Contwebs
 
+- [FAQ](FAQ.md)
+
 Yeah, maybe once I find a way to organize this that makes sense...
 
 ## PEBKAC
@@ -32,11 +34,16 @@ Yeah, maybe once I find a way to organize this that makes sense...
    speaking, but that doesn't prevent people from being confused by them. It
    also has one of the best original author smackdowns in history.
 
-* [number_format when passed a 0 as first function argument, returns null](https://bugs.php.net/bug.php?id=50696)
+* [apt-get moo doesn't look like a cow](https://bugs.launchpad.net/ubuntu/+source/apt/+bug/56125)
 
-   PHP is a [delightful](http://phpsadness.com/sad/52) and [well-loved](https://www.google.com/search?q=php+sucks)
-   language and, as shown by this bug, has both brilliant practitioners and careful
-   developers who would never introduce API changing bugs.
+   Answering the age-old question: How many engineers does it take to change an ASCII cow?
+
+   Also answering the age-old question: How many years does it take to change an ASCII cow?
+
+   Nine. the answer to the second question is apparently *nine*.
+
+
+## Patches, PRs and Code Snippets
 
 * [Add internal state field to irq_desc](http://www.spinics.net/lists/linux-tip-commits/msg11099.html)
 
@@ -50,17 +57,7 @@ Yeah, maybe once I find a way to organize this that makes sense...
 
    Leading underscores are also how I increase entropy on my single-character passwords.
 
-* [apt-get moo doesn't look like a cow](https://bugs.launchpad.net/ubuntu/+source/apt/+bug/56125)
-
-   Answering the age-old question: How many engineers does it take to change an ASCII cow?
-
-   Also answering the age-old question: How many years does it take to change an ASCII cow?
-
-   Nine. the answer to the second question is apparently *nine*.
-
-* [User-triggerable NULL pointer dereference due to utter plebbery](https://jira.mongodb.org/browse/PYTHON-532)
-
-   Jibbers McGee is the hero the internet needs.
+## Data Insanity
 
 * [Critical bug Skype 7.4.85.102: simple message crush client](https://community.skype.com/t5/Windows-archive/Critical-bug-Skype-7-4-85-102-simple-message-crush-client/td-p/3996419)
 
@@ -71,6 +68,19 @@ Yeah, maybe once I find a way to organize this that makes sense...
    All joking aside, this was a *fascinating* postmortem on a truly devious
    little bug. Amazing how the tiniest bits of regexp can bring a major
    website to its knees.
+
+
+## Something Else
+
+* [number_format when passed a 0 as first function argument, returns null](https://bugs.php.net/bug.php?id=50696)
+
+   PHP is a [delightful](http://phpsadness.com/sad/52) and [well-loved](https://www.google.com/search?q=php+sucks)
+   language and, as shown by this bug, has both brilliant practitioners and careful
+   developers who would never introduce API changing bugs.
+
+* [User-triggerable NULL pointer dereference due to utter plebbery](https://jira.mongodb.org/browse/PYTHON-532)
+
+   Jibbers McGee is the hero the internet needs.
 
 * [A glitch on Netflix caused some BBC nature show to get Aziz Ansari subtitles](https://www.reddit.com/r/funny/comments/4vv5f6/a_glitch_on_netflix_caused_some_bbc_nature_show/)
 
