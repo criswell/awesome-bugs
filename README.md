@@ -50,3 +50,22 @@ Yeah, maybe once I find a way to organize this that makes sense...
    Also answering the age-old question: How many years does it take to change an ASCII cow?
 
    Nine. the answer to the second question is apparently *nine*.
+
+* [User-triggerable NULL pointer dereference due to utter plebbery](https://jira.mongodb.org/browse/PYTHON-532)
+
+   Jibbers McGee is the hero the internet needs.
+
+* [Critical bug Skype 7.4.85.102: simple message crush client](https://community.skype.com/t5/Windows-archive/Critical-bug-Skype-7-4-85-102-simple-message-crush-client/td-p/3996419)
+
+   http://: will undoubtedly grow up to marry Bobby Tables.
+
+* [Outage Postmortem - July 20, 2016](http://stackstatus.net/post/147710624694/outage-postmortem-july-20-2016)
+
+   All joking aside, this was a *fascinating* postmortem on a truly devious
+   little bug. Amazing how the tiniest bits of regexp can bring a major
+   website to its knees.
+
+* [A glitch on Netflix caused some BBC nature show to get Aziz Ansari subtitles](https://www.reddit.com/r/funny/comments/4vv5f6/a_glitch_on_netflix_caused_some_bbc_nature_show/)
+
+   And that goose was never seen again...
+
