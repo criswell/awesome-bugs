@@ -21,6 +21,10 @@ but leave the parties involved alone!
 ## Table of Contwebs
 
 - [FAQ](FAQ.md)
+- [PEBKAC](#pebkac)
+- [Patches, PRs and Code Snippets](#patches-prs-and-code-snippets)
+- [Data Insanity](#data-insanity)
+- [Something Else](#something-else)
 
 Yeah, maybe once I find a way to organize this that makes sense...
 
