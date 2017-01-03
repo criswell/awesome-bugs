@@ -38,3 +38,15 @@ Yeah, maybe once I find a way to organize this that makes sense...
 * [0xB16B00B5? Really?](https://lkml.org/lkml/2012/7/13/154)
 
    If you're not getting it, then check the [punchline](https://lkml.org/lkml/2012/7/13/209).
+
+* [Re: RFC page-table walkers vs memory order](https://lwn.net/Articles/509149/)
+
+   Leading underscores are also how I increase entropy on my single-character passwords.
+
+* [apt-get moo doesn't look like a cow](https://bugs.launchpad.net/ubuntu/+source/apt/+bug/56125)
+
+   Answering the age-old question: How many engineers does it take to change an ASCII cow?
+
+   Also answering the age-old question: How many years does it take to change an ASCII cow?
+
+   Nine. the answer to the second question is apparently *nine*.
