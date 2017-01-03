@@ -11,6 +11,13 @@ it's not entirely clear when, I was inspired by
 lists, to collect these bugs in their own awesome list (because that's what
 the world needs, more curated lists.) This is that.
 
+*UNFUNNY WARNING:* DO NOT COMMENT ON OR MESS WITH ANY OF THESE BUGS! Seriously,
+this list should be considered READ-ONLY. Do not use this list to troll or
+harass the nice people making software. Everything here is included because
+*I* found it funny. This isn't, by any means, an encouragement for action
+(even in those cases where I editorialize). Seriously... read for the laughs,
+but leave the parties involved alone!
+
 ## Table of Contwebs
 
 Yeah, maybe once I find a way to organize this that makes sense...
@@ -85,3 +92,7 @@ Yeah, maybe once I find a way to organize this that makes sense...
    on the planet has a problem with the name (and has a simple solution).
    Gotta love millennial developers who think they are so GODDAMNED smarter
    than the rest of us.... But I'm not bitter. Also, Javascript developers, AMMIRITE?
+
+* [Using OCR To Fix a Hilarious Bug](http://artsy.github.io/blog/2015/11/05/Using-OCR-To-Fix-A-Hilarious-Bug/)
+
+* [The case of the 500-mile email](https://www.ibiblio.org/harris/500milemail.html)
