@@ -96,3 +96,8 @@ Yeah, maybe once I find a way to organize this that makes sense...
 * [Using OCR To Fix a Hilarious Bug](http://artsy.github.io/blog/2015/11/05/Using-OCR-To-Fix-A-Hilarious-Bug/)
 
 * [The case of the 500-mile email](https://www.ibiblio.org/harris/500milemail.html)
+
+* [gethostbyname() etc break for /etc/hosts with both ::1 and 127.0.0.1 localhost entries](https://sourceware.org/bugzilla/show_bug.cgi?id=4980)
+
+   The definite argument for granting developers the ability to permanently
+   shut down and close bugs in their issue tracking systems.
