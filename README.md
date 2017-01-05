@@ -73,6 +73,8 @@ Yeah, maybe once I find a way to organize this that makes sense...
    The definite argument for granting developers the ability to permanently
    shut down and close bugs in their issue tracking systems.
 
+* ["quodlibet" package is useless](https://bugs.gentoo.org/show_bug.cgi?id=124595)
+
 ## Data Insanity
 
 * [Critical bug Skype 7.4.85.102: simple message crush client](https://community.skype.com/t5/Windows-archive/Critical-bug-Skype-7-4-85-102-simple-message-crush-client/td-p/3996419)
