@@ -23,6 +23,7 @@ but leave the parties involved alone!
 - [FAQ](FAQ.md)
 - [PEBKAC](#pebkac)
 - [Patches, PRs and Code Snippets](#patches-prs-and-code-snippets)
+- [Code Gone Wild](#code-gone-wild)
 - [Data Insanity](#data-insanity)
 - [Something Else](#something-else)
 
@@ -60,6 +61,17 @@ Yeah, maybe once I find a way to organize this that makes sense...
 * [Re: RFC page-table walkers vs memory order](https://lwn.net/Articles/509149/)
 
    Leading underscores are also how I increase entropy on my single-character passwords.
+
+## Code Gone Wild
+
+* [Insulting source code](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=477454)
+
+   Why don't you tell us how you *really* feel?
+
+* [gethostbyname() etc break for /etc/hosts with both ::1 and 127.0.0.1 localhost entries](https://sourceware.org/bugzilla/show_bug.cgi?id=4980)
+
+   The definite argument for granting developers the ability to permanently
+   shut down and close bugs in their issue tracking systems.
 
 ## Data Insanity
 
@@ -111,7 +123,3 @@ Yeah, maybe once I find a way to organize this that makes sense...
 
 * [The case of the 500-mile email](https://www.ibiblio.org/harris/500milemail.html)
 
-* [gethostbyname() etc break for /etc/hosts with both ::1 and 127.0.0.1 localhost entries](https://sourceware.org/bugzilla/show_bug.cgi?id=4980)
-
-   The definite argument for granting developers the ability to permanently
-   shut down and close bugs in their issue tracking systems.
