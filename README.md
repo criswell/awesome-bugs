@@ -1,4 +1,4 @@
-# Awesome Bugs
+# Awesome Bugs [![Status?](https://img.shields.io/badge/butt%20mangler-aardvark-ff60b4.svg)](http://files.samhart.net/humor/angry_angry.gif)
 
 > An opinionated list of truly awesome bugs
 
