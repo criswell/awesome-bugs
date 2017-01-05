@@ -1,3 +1,11 @@
+- [What the...?](#what-the)
+- [Hey, item X isn't a bug!](#hey-item-x-isnt-a-bug)
+- [Can you include bug XYZ in your list?](#can-you-include-bug-xyz-in-your-list)
+- [What should be included in this list?](#what-should-be-included-in-this-list)
+- [One of your links or descriptions are mean, you jerk!](#one-of-your-links-or-descriptions-are-mean-you-jerk)
+- [Where do I submit spelling or other similar mistakes?](#where-do-i-submit-spelling-or-other-similar-mistakes)
+- [Why haven't you included XYZ in your list? It's awesome!](#why-havent-you-included-xyz-in-your-list-its-awesome)
+
 # What the...?
 
 Okay, so, first of all- This repo is a joke. It's all a joke. Don't take
