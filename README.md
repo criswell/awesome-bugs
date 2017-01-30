@@ -125,3 +125,9 @@ Yeah, maybe once I find a way to organize this that makes sense...
 
 * [The case of the 500-mile email](https://www.ibiblio.org/harris/500milemail.html)
 
+* [Players Try Bringing Missingno Into Pokémon Sun and Moon, Get A Glitch Instead](http://kotaku.com/players-try-bringing-missingno-into-pokemon-sun-and-moo-1791621674)
+
+   Missingo was a Pokemon caused by a glitch in an older Pokemon game. New
+   Pokemon game comes out and lets you pull in your pocket monsters from past
+   games. People try to pull in old glitched perckit mernster, get suprise of
+   new glitches breaking the new game in new and exciting ways.
