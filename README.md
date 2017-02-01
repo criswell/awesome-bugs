@@ -87,6 +87,9 @@ Yeah, maybe once I find a way to organize this that makes sense...
    little bug. Amazing how the tiniest bits of regexp can bring a major
    website to its knees.
 
+* [GitLab.com melts down after wrong directory deleted, backups fail](https://www.theregister.co.uk/2017/02/01/gitlab_data_loss/) | [Incident report](https://about.gitlab.com/2017/02/01/gitlab-dot-com-database-incident/)
+
+   rm -rf is not your friend.
 
 ## Something Else
 
