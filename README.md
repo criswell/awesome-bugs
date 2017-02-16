@@ -136,3 +136,8 @@ Yeah, maybe once I find a way to organize this that makes sense...
    Pokemon game comes out and lets you pull in your pocket monsters from past
    games. People try to pull in old glitched perckit mernster, get suprise of
    new glitches breaking the new game in new and exciting ways.
+
+* [Bug #16925 for File-Remote: check of OS is invalid](https://rt.cpan.org/Public/Bug/Display.html?ShowHeaders=1;id=16925)
+
+   Snarky comebacks in bug reports are like fine cheese, best when aged, left
+   in a corner, and forgotten for five years.
