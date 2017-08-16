@@ -82,7 +82,8 @@ Yeah, maybe once I find a way to organize this that makes sense...
 
 ## Data Insanity
 
-* [Critical bug Skype 7.4.85.102: simple message crush client](https://community.skype.com/t5/Windows-archive/Critical-bug-Skype-7-4-85-102-simple-message-crush-client/td-p/3996419)
+* [Critical bug Skype 7.4.85.102: simple message crush client](https://community.skype.com/t5/Windows-archive/Critical-bug-Skype-7-4-85-102-simple-message-crush-client/td-p/3996419) |
+[Alternate link to article, since bug post may be gone for good](https://venturebeat.com/2015/06/02/these-8-characters-crash-skype-and-once-theyre-in-your-chat-history-the-app-cant-start/)
 
    http://: will undoubtedly grow up to marry Bobby Tables.
 
