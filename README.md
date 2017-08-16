@@ -129,7 +129,7 @@ Yeah, maybe once I find a way to organize this that makes sense...
    Gotta love millennial developers who think they are so GODDAMNED smarter
    than the rest of us.... But I'm not bitter. Also, Javascript developers, AMMIRITE?
 
-* [Using OCR To Fix a Hilarious Bug](http://artsy.github.io/blog/2015/11/05/Using-OCR-To-Fix-A-Hilarious-Bug/)
+* [Using OCR To Fix a Hilarious Bug](http://artsy.github.io/blog/2015/11/04/Using-OCR-To-Fix-A-Hilarious-Bug/)
 
 * [The case of the 500-mile email](https://www.ibiblio.org/harris/500milemail.html)
 
