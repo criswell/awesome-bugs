@@ -47,6 +47,9 @@ Yeah, maybe once I find a way to organize this that makes sense...
 
    Nine. the answer to the second question is apparently *nine*.
 
+* [Dwarf Fortress starting during apt-get upgrade](https://askubuntu.com/questions/938606/dwarf-fortress-starting-during-apt-get-upgrade)
+
+    Only you can prevent name collisions.
 
 ## Patches, PRs and Code Snippets
 
