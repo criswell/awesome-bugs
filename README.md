@@ -149,4 +149,4 @@ Yeah, maybe once I find a way to organize this that makes sense...
 * [Windows 98 BSOD live at Comdex, with Bill Gates!](https://www.theregister.co.uk/2018/04/20/windows_98_comdex_bsod_video/) | [video](https://youtu.be/73wMnU7xbwE)
 
    In 1998 at Comdex, Bill Gates was on stage during a demo of Windows 98
-   showcased Window's most iconic feature.
+   showcasing Window's most iconic feature.
