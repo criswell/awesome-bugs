@@ -97,6 +97,18 @@ Yeah, maybe once I find a way to organize this that makes sense...
 
    rm -rf is not your friend.
 
+* [An Arrow Through The Code? Jet Set Willy's Weird Bug Explained](https://www.youtube.com/watch?v=Dd8G3ah92F8)
+
+    As a child of the 70s and 80s, I spent a fair amount of time screwing around
+    with computers of that era. I wrote a lot of silly little games, and played
+    even more. The systems at the time had a lot of limitations, and there's
+    aspects of working with them that seem insane by today's standards. In
+    Jet Set Willy for the ZX Spectrum, there was a doozy where an in-game object
+    (an arrow that is supposed to try and kill the player) is actually mis-fired.
+    Instead of firing across the screen memory, it fires across the memory that
+    holds the code to the game. So the arrow literally shoots the code, and
+    breaks the game. It's amazing, and awesome.
+
 ## Something Else
 
 * [number_format when passed a 0 as first function argument, returns null](https://bugs.php.net/bug.php?id=50696)
